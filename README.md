@@ -17,7 +17,7 @@ the requests sent from the client’s browser. It uses both client-side scriptin
 server-side scripting. Client-side scripting is achieved by the use of HTML, CSS
 and JavaScript. It is used for customizing the display (different for each student).
 Server- side scripting is achieved through JSP and is used for form processing,
-building and displaying pages created from the database.
+building and displaying pages created from the database.We have used JDBC API for storing and accessing data from the java programming language. 
 
 ## How it works?
 <h4> Master Page</h4>
